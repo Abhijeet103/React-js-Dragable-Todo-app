@@ -1,18 +1,5 @@
-# React To Do Drag n Drop
 
-> There is no actual data saved for this app
+![Screenshot 2023-10-27 194859](https://github.com/Abhijeet103/React-js-Dragable-Todo-app/assets/93581505/8b4832cb-064c-4a8b-a376-be8c7e64c9be)
 
-A simple app created to explore styled components and a drag and drop interface with a focus on accessibility.
 
-The app uses [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
-
-Initially based on [this video](https://egghead.io/courses/beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd), but made some design and structure changes along the way
-
-### Setup
-
-1. Clone this repository with `git clone https://github.com/tsnolan23/react-todo-dnd.git`
-1. Navigate into the directory with `cd react-todo-dnd`
-1. Install dependencies with `npm install`
-1. Start up the app with `npm start`
-
-![](https://user-images.githubusercontent.com/12575994/45464479-5d566600-b6d6-11e8-80a8-6f3df2289f60.png)
+![Screenshot 2023-10-27 194856](https://github.com/Abhijeet103/React-js-Dragable-Todo-app/assets/93581505/0013285d-bab3-4346-91f3-bd5ea0dba036)
